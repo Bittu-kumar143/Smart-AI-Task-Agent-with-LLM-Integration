@@ -56,27 +56,6 @@ This system demonstrates how modern AI (LLMs) can be seamlessly integrated into 
 
 ---
 
-## 📁 Project Structure
-
-```
-Smart-AI-Task-Agent/
-│
-├── Frontend/
-│   ├── src/
-│   ├── components/
-│   ├── services/
-│   └── ...
-│
-├── Backend/
-│   ├── routes/
-│   ├── controllers/
-│   └── ...
-│
-└── README.md
-```
-
----
-
 ## 🚀 Future Scope
 
 * 🔹 Add authentication system
