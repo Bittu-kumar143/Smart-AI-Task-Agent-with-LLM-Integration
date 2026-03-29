@@ -97,6 +97,7 @@ npm run dev
 Create a `.env` file in backend:
 
 ```
+MONGO_URI:your mongo comapas connection string
 OPENAI_API_KEY=your_api_key_here
 ```
 
