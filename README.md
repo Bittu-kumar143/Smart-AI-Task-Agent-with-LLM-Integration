@@ -66,6 +66,11 @@ This system demonstrates how modern AI (LLMs) can be seamlessly integrated into 
 
 ---
 
+<img width="1714" height="918" alt="image" src="https://github.com/user-attachments/assets/4e374054-6204-4a4d-9d14-2d729dbff757" />
+
+
+---
+
 ## 📌 How to Run
 
 ### 1. Clone the repository
