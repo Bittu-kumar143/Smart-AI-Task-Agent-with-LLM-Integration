@@ -102,23 +102,9 @@ npm run dev
 Create a `.env` file in backend:
 
 ```
-MONGO_URI:your mongo comapas connection string
+MONGO_URI:your mongo compass connection string
 OPENAI_API_KEY=your_api_key_here
 ```
-
----
-
-## 🤝 Contribution
-
-Contributions are welcome! Feel free to fork the repo and submit pull requests.
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
